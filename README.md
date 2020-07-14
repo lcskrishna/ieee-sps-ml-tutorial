@@ -1,1 +1,1 @@
-# ieee-sps-pytorch-rocm
+# ieee-sps-tutorial
